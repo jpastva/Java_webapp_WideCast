@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ProductCatalog>
+	
+<MovieCatalog>
+	
+	<movie id="angryBirds2">
+		<name>Angry Birds 2</name>
+		<price>4.99</price>
+		<image>angry_birds2.png</image>
+		<distributor>Sony</distributor>
+		<genre>Children</genre>
+		<runtime>96</runtime>
+		<date>2019-08-02</date>
+	</movie>
+	
+	<movie id="blinded">
+		<name>Blinded by the Light</name>
+		<price>9.99</price>
+		<image>blinded.png</image>
+		<distributor>Warner Brothers</distributor>
+		<genre>Drama</genre>
+		<runtime>117</runtime>
+		<date>2019-08-16</date>
+	</movie>
+	
+	<movie id="dora">
+		<name>Dora and the Lost City of Gold</name>
+		<price>8.99</price>
+		<image>dora.png</image>
+		<distributor>Paramount</distributor>
+		<genre>Children</genre>
+		<runtime>102</runtime>
+		<date>2019-08-09</date>
+	</movie>
+	
+	<movie id="good_boys">
+		<name>Good Boys</name>
+		<price>8.99</price>
+		<image>good_boys.png</image>
+		<distributor>Universal</distributor>
+		<genre>Comedy</genre>
+		<runtime>90</runtime>
+		<date>2019-08-16</date>
+	</movie>
+	
+	<movie id="lion_king">
+		<name>Lion King</name>
+		<price>12.99</price>
+		<image>lion_king.png</image>
+		<distributor>Walt Disney</distributor>
+		<genre>Children</genre>
+		<runtime>118</runtime>
+		<date>2019-07-19</date>
+	</movie>
+	
+	<movie id="once">
+		<name>Once Upon a Time in Hollywood</name>
+		<price>9.99</price>
+		<image>once.png</image>
+		<distributor>Sony</distributor>
+		<genre>Comedy</genre>
+		<runtime>118</runtime>
+		<date>2019-07-26</date>
+	</movie>
+	
+	<movie id="racing">
+		<name>The Art of Racing in the Rain</name>
+		<price>7.99</price>
+		<image>racing.png</image>
+		<distributor>Walt Disney</distributor>
+		<genre>Drama</genre>
+		<runtime>109</runtime>
+		<date>2019-08-09</date>
+	</movie>
+	
+	<movie id="scary">
+		<name>Scary Stories to Tell in the Dark</name>
+		<price>10.99</price>
+		<image>scary.png</image>
+		<distributor>Lionsgate</distributor>
+		<genre>Horror</genre>
+		<runtime>108</runtime>
+		<date>2019-08-09</date>
+	</movie>
+	
+	<movie id="spiderman">
+		<name>Spider-Man: Far From Home</name>
+		<price>7.99</price>
+		<image>spiderman.png</image>
+		<distributor>Sony</distributor>
+		<genre>Action</genre>
+		<runtime>129</runtime>
+		<date>2019-06-26</date>
+	</movie>
+	
+	<movie id="tstory4">
+		<name>Toy Story 4</name>
+		<price>9.99</price>
+		<image>toy_story.png</image>
+		<distributor>Walt Disney</distributor>
+		<genre>Children</genre>
+		<runtime>100</runtime>
+		<date>2019-06-21</date>
+	</movie>
+	
+</MovieCatalog>
+
+<EventCatalog>
+
+    <event id="wwe_slam">
+        <name>WWE Summer Slam</name>
+        <price>39.99</price>
+        <image>wwe.png</image>
+        <distributor>WWE</distributor>
+		<genre>Wrestling</genre>
+        <runtime>180</runtime>
+		<date>2019-08-23</date>
+	</event>
+	
+	<event id="wwe_rumble">
+        <name>WWE Rumble</name>
+        <price>39.99</price>
+        <image>wwe.png</image>
+        <distributor>WWE</distributor>
+		<genre>Wrestling</genre>
+        <runtime>180</runtime>
+		<date>2019-08-20</date>
+	</event>
+	
+	<event id="wwe_fright">
+        <name>WWE Fright Fest</name>
+        <price>39.99</price>
+        <image>wwe.png</image>
+        <distributor>WWE</distributor>
+		<genre>Wrestling</genre>
+        <runtime>180</runtime>
+		<date>2019-10-31</date>
+	</event>
+	
+	<event id="w_series1">
+        <name>World Series Game 1</name>
+        <price>10.99</price>
+        <image>world_series.png</image>
+        <distributor>MLB</distributor>
+		<genre>Baseball</genre>
+        <runtime>200</runtime>
+		<date>2019-10-22</date>
+	</event>
+		
+	<event id="w_series2">
+        <name>World Series Game 2</name>
+        <price>10.99</price>
+        <image>world_series.png</image>
+        <distributor>MLB</distributor>
+		<genre>Baseball</genre>
+        <runtime>200</runtime>
+		<date>2019-10-23</date>
+	</event>
+	
+	<event id="w_series3">
+        <name>World Series Game 3</name>
+        <price>10.99</price>
+        <image>world_series.png</image>
+        <distributor>MLB</distributor>
+		<genre>Baseball</genre>
+        <runtime>200</runtime>
+		<date>2019-10-25</date>
+	</event>
+	
+	<event id="w_series4">
+        <name>World Series Game 4</name>
+        <price>19.99</price>
+        <image>world_series.png</image>
+        <distributor>MLB</distributor>
+		<genre>Baseball</genre>
+        <runtime>200</runtime>
+		<date>2019-10-26</date>
+	</event>
+	
+	<event id="thurman">
+        <name>Thurman v Pacquiao</name>
+        <price>49.99</price>
+        <image>thurman.png</image>
+        <distributor>WBA</distributor>
+		<genre>Boxing</genre>
+        <runtime>200</runtime>
+		<date>2019-09-27</date>
+	</event>
+	
+	<event id="selby">
+        <name>Selby vs Harris</name>
+        <price>39.99</price>
+        <image>selby.png</image>
+        <distributor>ESPN</distributor>
+		<genre>Boxing</genre>
+        <runtime>200</runtime>
+		<date>2019-10-27</date>
+	</event>
+	
+	<event id="foster">
+        <name>Foster vs Reid</name>
+        <price>39.99</price>
+        <image>foster.png</image>
+        <distributor>WBA</distributor>
+		<genre>Boxing</genre>
+        <runtime>200</runtime>
+		<date>2019-09-12</date>
+	</event>
+	
+</EventCatalog>
+
+<TVCatalog>
+
+    <tv id="basic">
+        <name>Basic Plan</name>
+        <price>19.99</price>
+        <image>basic.png</image>
+		<channels>50</channels>
+        <distributor>WideCast</distributor>
+    </tv>
+		
+	<tv id="plus">
+        <name>Basic Plus Plan</name>
+        <price>29.99</price>
+        <image>plus.png</image>
+		<channels>100</channels>
+        <distributor>WideCast</distributor>
+    </tv>
+	
+	<tv id="ultimate">
+        <name>Ultimate Plan</name>
+        <price>49.99</price>
+        <image>ultimate.png</image>
+		<channels>200</channels>
+        <distributor>WideCast</distributor>
+    </tv>
+	
+</TVCatalog>
+
+<DataCatalog>
+
+	<data id="speed">
+        <name>SpeedLane</name>
+        <price>39.99</price>
+        <image>speed.png</image>
+		<speed>20/5 Mbps</speed>
+        <distributor>WideCast</distributor>
+    </data>
+	
+	<data id="light">
+        <name>LightLane</name>
+        <price>59.99</price>
+        <image>light.png</image>
+		<speed>50/10 MBPS</speed>
+        <distributor>WideCast</distributor>
+    </data>
+
+</DataCatalog>
+
+</ProductCatalog>
